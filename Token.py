@@ -1,1 +1,0 @@
-import Faro_enc
